@@ -1,12 +1,7 @@
-<div align="center">
-   <a href="https://hudsonthames.org/">
-   <img src="https://raw.githubusercontent.com/hudson-and-thames/mlfinlab/master/.github/logo/hudson_and_thames_logo.png" height="300"><br>
-</div>
-
+Forked mlfinlab
 
 -----------------
 # Machine Learning Financial Laboratory (MlFinLab)
-[![PyPi](https://img.shields.io/pypi/v/mlfinlab.svg)]((https://pypi.org/project/mlfinlab/))
 [![Python](https://img.shields.io/pypi/pyversions/mlfinlab.svg)]((https://pypi.org/project/mlfinlab/))
 [![Build Status](https://travis-ci.com/hudson-and-thames/mlfinlab.svg?branch=master)](https://travis-ci.com/hudson-and-thames/mlfinlab)
 [![codecov](https://codecov.io/gh/hudson-and-thames/mlfinlab/branch/master/graph/badge.svg)](https://codecov.io/gh/hudson-and-thames/mlfinlab)
