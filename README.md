@@ -1,5 +1,11 @@
 Forked mlfinlab
 
+M1Mac Install,
+```
+$ brew install llvm@11
+$ LLVM_CONFIG=/opt/homebrew/Cellar/llvm@11/11.1.0_4/bin/llvm-config
+$ pip install llvmlite
+```
 -----------------
 # Machine Learning Financial Laboratory (MlFinLab)
 [![Python](https://img.shields.io/pypi/pyversions/mlfinlab.svg)]((https://pypi.org/project/mlfinlab/))
